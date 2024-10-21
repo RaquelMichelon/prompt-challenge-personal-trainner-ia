@@ -180,7 +180,7 @@ C) Outras (especifique)
 
 # Resultados esperados
 
-Com base nos dados coletados coletadas, você deverá:
+Com base nos dados coletados, você deverá:
 
 1. Criar um plano de treino personalizado contendo:
    - Frequência semanal de treinos, com sugestões dos dias da semana para fazê-los
