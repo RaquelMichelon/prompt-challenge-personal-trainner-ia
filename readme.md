@@ -121,3 +121,13 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+```
+Prompt here
+```
+
+---
+
+## 💬 Exemplo aplicado ao GPT
+
+[URL pública](https://copy link here)
